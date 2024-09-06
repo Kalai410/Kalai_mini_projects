@@ -1,0 +1,57 @@
+<center>
+    <center>
+        <h1>Fast Track Solution 🚀</h1>
+        <h4>Training | Placement | Job</h4>
+        <h5>Empowering the students to improve their knowledge in real world technology through the training and technologies</h5>
+        <hr> 
+        <h3>Registration Form</h3> 
+    <form>
+        <table>
+            <tr>
+                <td>Name:</td> <td><input type="text" placeholder="Enter Your Name"></td>
+            </tr>
+            <tr>
+                <td>Age:</td><td><input type="numbers" placeholder="Enter Your Age"></td>
+            </tr>
+            <tr>
+                <td>Gender:</td>
+                <td>
+                    <input type="radio" name="Gender">Male
+                    <input type="radio" name="Gender">Female
+                </td>
+            </tr>
+            <tr>
+                <td>Email:</td><td><input type="text" placeholder="Enter Your Mail id"></td>
+            </tr>
+            <tr>
+                <td>Select a Course:</td><td><select>
+                    <option>Select</option>
+                    <option>Python Programming</option>
+                    <option>Java Programming</option>
+                    <option>SQL</option>
+                    <option>C Programming</option>
+                    <option>C++ Programming</option>
+                </select></td>
+            </tr>
+            <tr>
+                <td>Resume:</td>
+                <td>
+                <input type="file">
+                </td>
+            </tr>
+            <tr>
+                <td><input type="reset"></td>
+                <td><input type="submit"></td>
+            </tr>
+            
+            
+        </table>
+    </form>
+    <hr>
+    <p>
+        <a href="file:///C:/Users/kalai/OneDrive/Desktop/HTML/website/code.html">Home | </a>
+        <a href="https://www.instagram.com/">Instagram | </a>
+        <a href="https://www.youtube.com/">Youtube</a>
+    </p>
+    <hr>
+</center>
